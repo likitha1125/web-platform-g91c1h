@@ -72,7 +72,8 @@ console.log("Challenge 15 (Less Than):", x < y);
 console.log("Challenge 15 (Less Than):", x < z); 
 
 // Challenge 16: Perform 2 Greater than Comparison operations, in which one should return true and one should return false.
-console.log("Challenge 16 (Greater Than):", x > y); 
+console.log("Challenge 16 (Greater Than):", x > y); // Should return true
+console.log("Challenge 16 (Greater Than):", x > z); // Should return false
 
 // Challenge 17: Perform 2 Less than or equal to Comparison operations, in which one should return true and one should return false.
 console.log("Challenge 17 (Less Than or Equal To):", x <= y); 
@@ -81,4 +82,9 @@ console.log("Challenge 17 (Less Than or Equal To):", x <= z);
 // Challenge 18: Perform 2 Greater than or equal to Comparison operations, in which one should return true and one should return false.
 console.log("Challenge 18 (Greater Than or Equal To):", x >= y); 
 console.log("Challenge 18 (Greater Than or Equal To):", x >= z); 
+
+
+
+
+
 
